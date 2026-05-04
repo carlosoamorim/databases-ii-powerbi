@@ -1,0 +1,15 @@
+# Power BI temporary files
+*.pbix.bak
+*.pbix.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive / local config
+*.env
+local_settings.*
+
+# Large data exports (add to data/ manually if small enough)
+*.csv.bak
+*.xlsx.bak

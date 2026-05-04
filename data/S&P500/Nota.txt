@@ -1,0 +1,2 @@
+Este já veio completamente limpo do website.
+Se quiseres dados ainda mais atualizados podes ir diretamente ao site da nasdaq, ele dão update a este dataset quase todos os dias acho.

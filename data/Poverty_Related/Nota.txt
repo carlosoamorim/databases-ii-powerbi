@@ -1,0 +1,1 @@
+Isto está cheio de measures diferentes mas penso que o ideal seria ficar só com os poverty headcounts que são 4, e depois fazer unpivot dos anos acho eu.
