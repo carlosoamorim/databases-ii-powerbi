@@ -1,4 +1,4 @@
-# 📊 Databases II — Power BI Project
+# Power BI Project
 
 A Power BI report developed for the **Databases II** course, analyzing macroeconomic and socioeconomic indicators across multiple dimensions.
 
@@ -17,7 +17,7 @@ A Power BI report developed for the **Databases II** course, analyzing macroecon
 
 ---
 
-## 📑 Report Pages
+## Report Pages
 
 The report is organized into the following pages:
 
@@ -40,7 +40,7 @@ The report is organized into the following pages:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI Desktop** — Report authoring and data modeling
 - **DAX** — Data Analysis Expressions for calculated measures
@@ -48,7 +48,7 @@ The report is organized into the following pages:
 
 ---
 
-## 🚀 How to Open
+## How to Open
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
 2. Clone or download this repository.
@@ -56,20 +56,14 @@ The report is organized into the following pages:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Data sources may need to be refreshed/relinked after opening on a new machine.
 - Place any source data files inside the `data/` folder and update the data source paths in Power BI if needed.
 
 ---
 
-## 👤 Authors
+## Course Info
 
-> Add your name(s) and student ID(s) here.
-
----
-
-## 📅 Course Info
-
-- **Course:** Databases II
+- **Course:** Databases II, NOVA IMS
 - **Academic Year:** 2024/2025
