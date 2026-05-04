@@ -4,7 +4,7 @@ A Power BI report developed for the **Databases II** course, analyzing macroecon
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── Project_latest_version.pbix   # Main Power BI report file
